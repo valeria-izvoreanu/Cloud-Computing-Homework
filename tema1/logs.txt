@@ -1,0 +1,563 @@
+GET csrng: <PreparedRequest [GET]>, OK, 0.795426
+GET csrng: <PreparedRequest [GET]>, OK, 0.56549
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.25314
+GET youtube API: <PreparedRequest [GET]>, OK, 0.558546
+GET csrng: <PreparedRequest [GET]>, OK, 1.249446
+GET csrng: <PreparedRequest [GET]>, OK, 0.532254
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.099517
+GET youtube API: <PreparedRequest [GET]>, OK, 0.534344
+GET csrng: <PreparedRequest [GET]>, OK, 1.219757
+GET csrng: <PreparedRequest [GET]>, OK, 1.25493
+GET csrng: <PreparedRequest [GET]>, OK, 0.629146
+GET csrng: <PreparedRequest [GET]>, OK, 0.926861
+GET csrng: <PreparedRequest [GET]>, OK, 0.957969
+GET csrng: <PreparedRequest [GET]>, OK, 0.931811
+GET csrng: <PreparedRequest [GET]>, OK, 0.516283
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.127994
+GET youtube API: <PreparedRequest [GET]>, OK, 0.493265
+GET csrng: <PreparedRequest [GET]>, OK, 0.58094
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.317056
+GET csrng: <PreparedRequest [GET]>, OK, 0.60165
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.313721
+GET youtube API: <PreparedRequest [GET]>, OK, 0.509142
+GET youtube API: <PreparedRequest [GET]>, OK, 0.498563
+GET csrng: <PreparedRequest [GET]>, OK, 0.63797
+GET csrng: <PreparedRequest [GET]>, OK, 0.589177
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.381394
+GET youtube API: <PreparedRequest [GET]>, OK, 0.411799
+GET csrng: <PreparedRequest [GET]>, OK, 0.57956
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.129334
+GET youtube API: <PreparedRequest [GET]>, OK, 0.522074
+GET csrng: <PreparedRequest [GET]>, OK, 0.578939
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.27024
+GET csrng: <PreparedRequest [GET]>, OK, 0.59791
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.28141
+GET youtube API: <PreparedRequest [GET]>, OK, 0.504594
+GET youtube API: <PreparedRequest [GET]>, OK, 0.699797
+GET csrng: <PreparedRequest [GET]>, OK, 0.714108
+GET csrng: <PreparedRequest [GET]>, OK, 0.573646
+GET csrng: <PreparedRequest [GET]>, OK, 0.589936
+GET csrng: <PreparedRequest [GET]>, OK, 0.591969
+GET csrng: <PreparedRequest [GET]>, OK, 0.593861
+GET csrng: <PreparedRequest [GET]>, OK, 0.625616
+GET csrng: <PreparedRequest [GET]>, OK, 0.572318
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.100432
+GET csrng: <PreparedRequest [GET]>, OK, 0.56494
+GET csrng: <PreparedRequest [GET]>, OK, 0.579698
+GET csrng: <PreparedRequest [GET]>, OK, 0.582741
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.275327
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.202864
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.294489
+GET csrng: <PreparedRequest [GET]>, OK, 0.572964
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.253983
+GET youtube API: <PreparedRequest [GET]>, OK, 0.502308
+GET youtube API: <PreparedRequest [GET]>, OK, 0.521428
+GET youtube API: <PreparedRequest [GET]>, OK, 0.560943
+GET youtube API: <PreparedRequest [GET]>, OK, 0.536523
+GET youtube API: <PreparedRequest [GET]>, OK, 0.579971
+GET csrng: <PreparedRequest [GET]>, OK, 0.577274
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.289828
+GET youtube API: <PreparedRequest [GET]>, OK, 0.4315
+GET csrng: <PreparedRequest [GET]>, OK, 0.579765
+GET csrng: <PreparedRequest [GET]>, OK, 0.539684
+GET csrng: <PreparedRequest [GET]>, OK, 0.581508
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.303651
+GET youtube API: <PreparedRequest [GET]>, OK, 0.400264
+GET csrng: <PreparedRequest [GET]>, OK, 0.576735
+GET csrng: <PreparedRequest [GET]>, OK, 0.55779
+GET csrng: <PreparedRequest [GET]>, OK, 0.568745
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.289438
+GET csrng: <PreparedRequest [GET]>, OK, 0.527294
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.298767
+GET youtube API: <PreparedRequest [GET]>, OK, 0.466818
+GET youtube API: <PreparedRequest [GET]>, OK, 0.488364
+GET csrng: <PreparedRequest [GET]>, OK, 0.560249
+GET csrng: <PreparedRequest [GET]>, OK, 0.566777
+GET csrng: <PreparedRequest [GET]>, OK, 0.572174
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.06989
+GET csrng: <PreparedRequest [GET]>, OK, 0.553727
+GET youtube API: <PreparedRequest [GET]>, OK, 0.437101
+GET csrng: <PreparedRequest [GET]>, OK, 0.5848
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.207367
+GET youtube API: <PreparedRequest [GET]>, OK, 0.381783
+GET csrng: <PreparedRequest [GET]>, OK, 0.587077
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.306227
+GET csrng: <PreparedRequest [GET]>, OK, 0.537747
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.298388
+GET youtube API: <PreparedRequest [GET]>, OK, 0.394193
+GET youtube API: <PreparedRequest [GET]>, OK, 0.459326
+GET csrng: <PreparedRequest [GET]>, OK, 0.577315
+GET csrng: <PreparedRequest [GET]>, OK, 0.599704
+GET csrng: <PreparedRequest [GET]>, OK, 0.581853
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.283287
+GET youtube API: <PreparedRequest [GET]>, OK, 0.46132
+GET csrng: <PreparedRequest [GET]>, OK, 0.56899
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.370021
+GET youtube API: <PreparedRequest [GET]>, OK, 0.522738
+GET csrng: <PreparedRequest [GET]>, OK, 0.626106
+GET csrng: <PreparedRequest [GET]>, OK, 0.489612
+GET csrng: <PreparedRequest [GET]>, OK, 0.604746
+GET csrng: <PreparedRequest [GET]>, OK, 0.624116
+GET csrng: <PreparedRequest [GET]>, OK, 0.487865
+GET csrng: <PreparedRequest [GET]>, OK, 0.477043
+GET csrng: <PreparedRequest [GET]>, OK, 0.478226
+GET csrng: <PreparedRequest [GET]>, OK, 0.480058
+GET csrng: <PreparedRequest [GET]>, OK, 0.469134
+GET csrng: <PreparedRequest [GET]>, OK, 0.477601
+GET csrng: <PreparedRequest [GET]>, OK, 0.479787
+GET csrng: <PreparedRequest [GET]>, OK, 0.472608
+GET csrng: <PreparedRequest [GET]>, OK, 0.465407
+GET csrng: <PreparedRequest [GET]>, OK, 0.566137
+GET csrng: <PreparedRequest [GET]>, OK, 0.564485
+GET csrng: <PreparedRequest [GET]>, OK, 0.475639
+GET csrng: <PreparedRequest [GET]>, OK, 0.534515
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.1019
+GET csrng: <PreparedRequest [GET]>, OK, 0.49113
+GET csrng: <PreparedRequest [GET]>, OK, 0.483689
+GET csrng: <PreparedRequest [GET]>, OK, 0.469335
+GET youtube API: <PreparedRequest [GET]>, OK, 0.472643
+GET csrng: <PreparedRequest [GET]>, OK, 0.484623
+GET csrng: <PreparedRequest [GET]>, OK, 0.479835
+GET csrng: <PreparedRequest [GET]>, OK, 0.468265
+GET csrng: <PreparedRequest [GET]>, OK, 0.46895
+GET csrng: <PreparedRequest [GET]>, OK, 0.584489
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.09662
+GET csrng: <PreparedRequest [GET]>, OK, 0.552172
+GET csrng: <PreparedRequest [GET]>, OK, 0.556335
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.120052
+GET csrng: <PreparedRequest [GET]>, OK, 0.571527
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.319479
+GET csrng: <PreparedRequest [GET]>, OK, 0.50301
+GET youtube API: <PreparedRequest [GET]>, OK, 0.394724
+GET youtube API: <PreparedRequest [GET]>, OK, 0.408589
+GET youtube API: <PreparedRequest [GET]>, OK, 0.468717
+GET csrng: <PreparedRequest [GET]>, OK, 0.489501
+GET csrng: <PreparedRequest [GET]>, OK, 0.618158
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.302277
+GET csrng: <PreparedRequest [GET]>, OK, 0.500344
+GET youtube API: <PreparedRequest [GET]>, OK, 0.408247
+GET csrng: <PreparedRequest [GET]>, OK, 0.626828
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.275376
+GET youtube API: <PreparedRequest [GET]>, OK, 0.376247
+GET csrng: <PreparedRequest [GET]>, OK, 1.88807
+GET csrng: <PreparedRequest [GET]>, OK, 1.662714
+GET csrng: <PreparedRequest [GET]>, OK, 1.34634
+GET csrng: <PreparedRequest [GET]>, OK, 1.618283
+GET csrng: <PreparedRequest [GET]>, OK, 1.340968
+GET csrng: <PreparedRequest [GET]>, OK, 1.349316
+GET csrng: <PreparedRequest [GET]>, OK, 0.561384
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.204989
+GET csrng: <PreparedRequest [GET]>, OK, 0.561064
+GET csrng: <PreparedRequest [GET]>, OK, 0.538024
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.285004
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.255439
+GET csrng: <PreparedRequest [GET]>, OK, 0.480357
+GET csrng: <PreparedRequest [GET]>, OK, 0.544692
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.285419
+GET csrng: <PreparedRequest [GET]>, OK, 0.55744
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.282523
+GET youtube API: <PreparedRequest [GET]>, OK, 0.498148
+GET youtube API: <PreparedRequest [GET]>, OK, 0.481669
+GET csrng: <PreparedRequest [GET]>, OK, 0.466242
+GET youtube API: <PreparedRequest [GET]>, OK, 0.588063
+GET youtube API: <PreparedRequest [GET]>, OK, 0.54625
+GET youtube API: <PreparedRequest [GET]>, OK, 0.570165
+GET csrng: <PreparedRequest [GET]>, OK, 0.583784
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.337778
+GET csrng: <PreparedRequest [GET]>, OK, 0.480935
+GET csrng: <PreparedRequest [GET]>, OK, 0.497056
+GET csrng: <PreparedRequest [GET]>, OK, 0.474916
+GET csrng: <PreparedRequest [GET]>, OK, 0.478817
+GET youtube API: <PreparedRequest [GET]>, OK, 0.457188
+GET csrng: <PreparedRequest [GET]>, OK, 0.472735
+GET csrng: <PreparedRequest [GET]>, OK, 0.470766
+GET csrng: <PreparedRequest [GET]>, OK, 0.475374
+GET csrng: <PreparedRequest [GET]>, OK, 0.591221
+GET csrng: <PreparedRequest [GET]>, OK, 0.588692
+GET csrng: <PreparedRequest [GET]>, OK, 0.473345
+GET csrng: <PreparedRequest [GET]>, OK, 0.480408
+GET csrng: <PreparedRequest [GET]>, OK, 0.483929
+GET csrng: <PreparedRequest [GET]>, OK, 0.47108
+GET csrng: <PreparedRequest [GET]>, OK, 0.474722
+GET csrng: <PreparedRequest [GET]>, OK, 0.476001
+GET csrng: <PreparedRequest [GET]>, OK, 0.480209
+GET csrng: <PreparedRequest [GET]>, OK, 0.473322
+GET csrng: <PreparedRequest [GET]>, OK, 0.473705
+GET csrng: <PreparedRequest [GET]>, OK, 0.586738
+GET csrng: <PreparedRequest [GET]>, OK, 0.467973
+GET csrng: <PreparedRequest [GET]>, OK, 0.479725
+GET csrng: <PreparedRequest [GET]>, OK, 0.480627
+GET csrng: <PreparedRequest [GET]>, OK, 0.478734
+GET csrng: <PreparedRequest [GET]>, OK, 0.476606
+GET csrng: <PreparedRequest [GET]>, OK, 0.475906
+GET csrng: <PreparedRequest [GET]>, OK, 0.4685
+GET csrng: <PreparedRequest [GET]>, OK, 0.497891
+GET csrng: <PreparedRequest [GET]>, OK, 0.473039
+GET csrng: <PreparedRequest [GET]>, OK, 0.494277
+GET csrng: <PreparedRequest [GET]>, OK, 0.593035
+GET csrng: <PreparedRequest [GET]>, OK, 0.541241
+GET csrng: <PreparedRequest [GET]>, OK, 0.539884
+GET csrng: <PreparedRequest [GET]>, OK, 0.578583
+GET csrng: <PreparedRequest [GET]>, OK, 0.564075
+GET csrng: <PreparedRequest [GET]>, OK, 0.480654
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.275419
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.242167
+GET csrng: <PreparedRequest [GET]>, OK, 0.475823
+GET youtube API: <PreparedRequest [GET]>, OK, 0.498557
+GET youtube API: <PreparedRequest [GET]>, OK, 0.622381
+GET csrng: <PreparedRequest [GET]>, OK, 0.577962
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.292246
+GET csrng: <PreparedRequest [GET]>, OK, 0.591771
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.266788
+GET csrng: <PreparedRequest [GET]>, OK, 0.562381
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.299901
+GET csrng: <PreparedRequest [GET]>, OK, 0.47834
+GET youtube API: <PreparedRequest [GET]>, OK, 0.352882
+GET csrng: <PreparedRequest [GET]>, OK, 0.465663
+GET youtube API: <PreparedRequest [GET]>, OK, 0.503466
+GET youtube API: <PreparedRequest [GET]>, OK, 0.489112
+GET csrng: <PreparedRequest [GET]>, OK, 0.469772
+GET csrng: <PreparedRequest [GET]>, OK, 0.473958
+GET csrng: <PreparedRequest [GET]>, OK, 0.639486
+GET csrng: <PreparedRequest [GET]>, OK, 0.539485
+GET csrng: <PreparedRequest [GET]>, OK, 0.526743
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.360055
+GET youtube API: <PreparedRequest [GET]>, OK, 0.383199
+GET csrng: <PreparedRequest [GET]>, OK, 0.582407
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.106377
+GET csrng: <PreparedRequest [GET]>, OK, 0.47998
+GET csrng: <PreparedRequest [GET]>, OK, 0.4872
+GET youtube API: <PreparedRequest [GET]>, OK, 0.525007
+GET csrng: <PreparedRequest [GET]>, OK, 0.562339
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.26008
+GET youtube API: <PreparedRequest [GET]>, OK, 0.500255
+GET csrng: <PreparedRequest [GET]>, OK, 0.595361
+GET csrng: <PreparedRequest [GET]>, OK, 0.481676
+GET csrng: <PreparedRequest [GET]>, OK, 0.481877
+GET csrng: <PreparedRequest [GET]>, OK, 0.480285
+GET csrng: <PreparedRequest [GET]>, OK, 0.480577
+GET csrng: <PreparedRequest [GET]>, OK, 0.57579
+GET csrng: <PreparedRequest [GET]>, OK, 0.558237
+GET csrng: <PreparedRequest [GET]>, OK, 0.488155
+GET csrng: <PreparedRequest [GET]>, OK, 0.486347
+GET csrng: <PreparedRequest [GET]>, OK, 0.478557
+GET csrng: <PreparedRequest [GET]>, OK, 0.489594
+GET csrng: <PreparedRequest [GET]>, OK, 0.479355
+GET csrng: <PreparedRequest [GET]>, OK, 0.488145
+GET csrng: <PreparedRequest [GET]>, OK, 0.484284
+GET csrng: <PreparedRequest [GET]>, OK, 0.47582
+GET csrng: <PreparedRequest [GET]>, OK, 0.46937
+GET csrng: <PreparedRequest [GET]>, OK, 0.491591
+GET csrng: <PreparedRequest [GET]>, OK, 0.604096
+GET csrng: <PreparedRequest [GET]>, OK, 0.613739
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.283752
+GET csrng: <PreparedRequest [GET]>, OK, 0.471972
+GET csrng: <PreparedRequest [GET]>, OK, 0.492976
+GET csrng: <PreparedRequest [GET]>, OK, 0.465066
+GET csrng: <PreparedRequest [GET]>, OK, 0.487248
+GET youtube API: <PreparedRequest [GET]>, OK, 0.467655
+GET csrng: <PreparedRequest [GET]>, OK, 0.474123
+GET csrng: <PreparedRequest [GET]>, OK, 0.492714
+GET csrng: <PreparedRequest [GET]>, OK, 0.484611
+GET csrng: <PreparedRequest [GET]>, OK, 0.466343
+GET csrng: <PreparedRequest [GET]>, OK, 0.571565
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.284949
+GET csrng: <PreparedRequest [GET]>, OK, 0.490334
+GET csrng: <PreparedRequest [GET]>, OK, 0.467965
+GET csrng: <PreparedRequest [GET]>, OK, 0.478863
+GET csrng: <PreparedRequest [GET]>, OK, 0.495519
+GET youtube API: <PreparedRequest [GET]>, OK, 0.382734
+GET csrng: <PreparedRequest [GET]>, OK, 0.480664
+GET csrng: <PreparedRequest [GET]>, OK, 0.50581
+GET csrng: <PreparedRequest [GET]>, OK, 0.50351
+GET csrng: <PreparedRequest [GET]>, OK, 0.486417
+GET csrng: <PreparedRequest [GET]>, OK, 0.476357
+GET csrng: <PreparedRequest [GET]>, OK, 0.596558
+GET csrng: <PreparedRequest [GET]>, OK, 0.492025
+GET csrng: <PreparedRequest [GET]>, OK, 0.514213
+GET csrng: <PreparedRequest [GET]>, OK, 0.491319
+GET csrng: <PreparedRequest [GET]>, OK, 0.509101
+GET csrng: <PreparedRequest [GET]>, OK, 0.479177
+GET csrng: <PreparedRequest [GET]>, OK, 0.488798
+GET csrng: <PreparedRequest [GET]>, OK, 0.490165
+GET csrng: <PreparedRequest [GET]>, OK, 0.504917
+GET csrng: <PreparedRequest [GET]>, OK, 0.505613
+GET csrng: <PreparedRequest [GET]>, OK, 0.488912
+GET csrng: <PreparedRequest [GET]>, OK, 0.482914
+GET csrng: <PreparedRequest [GET]>, OK, 0.603651
+GET csrng: <PreparedRequest [GET]>, OK, 0.601756
+GET csrng: <PreparedRequest [GET]>, OK, 0.591673
+GET csrng: <PreparedRequest [GET]>, OK, 0.592966
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.291847
+GET csrng: <PreparedRequest [GET]>, OK, 0.56034
+GET csrng: <PreparedRequest [GET]>, OK, 0.563557
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.265457
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.374226
+GET youtube API: <PreparedRequest [GET]>, OK, 0.382359
+GET youtube API: <PreparedRequest [GET]>, OK, 0.494117
+GET youtube API: <PreparedRequest [GET]>, OK, 0.501232
+GET csrng: <PreparedRequest [GET]>, OK, 0.570027
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.272567
+GET csrng: <PreparedRequest [GET]>, OK, 0.540496
+GET csrng: <PreparedRequest [GET]>, OK, 0.486368
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.266585
+GET csrng: <PreparedRequest [GET]>, OK, 0.475213
+GET csrng: <PreparedRequest [GET]>, OK, 0.473528
+GET youtube API: <PreparedRequest [GET]>, OK, 0.510161
+GET csrng: <PreparedRequest [GET]>, OK, 0.49133
+GET csrng: <PreparedRequest [GET]>, OK, 0.47043
+GET youtube API: <PreparedRequest [GET]>, OK, 0.536066
+GET csrng: <PreparedRequest [GET]>, OK, 0.578392
+GET csrng: <PreparedRequest [GET]>, OK, 0.52201
+GET csrng: <PreparedRequest [GET]>, OK, 0.487111
+GET csrng: <PreparedRequest [GET]>, OK, 0.540738
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.352161
+GET csrng: <PreparedRequest [GET]>, OK, 0.470246
+GET csrng: <PreparedRequest [GET]>, OK, 0.482382
+GET youtube API: <PreparedRequest [GET]>, OK, 0.37304
+GET csrng: <PreparedRequest [GET]>, OK, 0.481533
+GET csrng: <PreparedRequest [GET]>, OK, 0.483587
+GET csrng: <PreparedRequest [GET]>, OK, 0.584253
+GET csrng: <PreparedRequest [GET]>, OK, 0.60685
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.278705
+GET csrng: <PreparedRequest [GET]>, OK, 0.54664
+GET csrng: <PreparedRequest [GET]>, OK, 0.479961
+GET csrng: <PreparedRequest [GET]>, OK, 0.489071
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.263542
+GET csrng: <PreparedRequest [GET]>, OK, 0.474805
+GET csrng: <PreparedRequest [GET]>, OK, 0.481136
+GET csrng: <PreparedRequest [GET]>, OK, 0.482294
+GET csrng: <PreparedRequest [GET]>, OK, 0.481597
+GET csrng: <PreparedRequest [GET]>, OK, 0.47683
+GET csrng: <PreparedRequest [GET]>, OK, 0.471463
+GET csrng: <PreparedRequest [GET]>, OK, 0.597669
+GET csrng: <PreparedRequest [GET]>, OK, 0.531049
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.10078
+GET csrng: <PreparedRequest [GET]>, OK, 0.476208
+GET csrng: <PreparedRequest [GET]>, OK, 0.476192
+GET csrng: <PreparedRequest [GET]>, OK, 0.48703
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.256837
+GET csrng: <PreparedRequest [GET]>, OK, 0.46945
+GET csrng: <PreparedRequest [GET]>, OK, 0.480942
+GET csrng: <PreparedRequest [GET]>, OK, 0.469295
+GET csrng: <PreparedRequest [GET]>, OK, 0.57753
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.241674
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.160023
+GET csrng: <PreparedRequest [GET]>, OK, 0.487153
+GET csrng: <PreparedRequest [GET]>, OK, 0.50536
+GET csrng: <PreparedRequest [GET]>, OK, 0.468047
+GET csrng: <PreparedRequest [GET]>, OK, 0.473686
+GET csrng: <PreparedRequest [GET]>, OK, 0.492486
+GET csrng: <PreparedRequest [GET]>, OK, 0.489271
+GET csrng: <PreparedRequest [GET]>, OK, 0.575161
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.269635
+GET csrng: <PreparedRequest [GET]>, OK, 0.532256
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.255163
+GET csrng: <PreparedRequest [GET]>, OK, 0.545911
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.158476
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.155568
+GET csrng: <PreparedRequest [GET]>, OK, 0.589
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.267194
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.151048
+GET csrng: <PreparedRequest [GET]>, OK, 0.590243
+GET csrng: <PreparedRequest [GET]>, OK, 0.639581
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.265188
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.178872
+GET csrng: <PreparedRequest [GET]>, OK, 1.890817
+GET csrng: <PreparedRequest [GET]>, OK, 0.545536
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.365271
+GET youtube API: <PreparedRequest [GET]>, Forbidden, 0.176734
+GET csrng: <PreparedRequest [GET]>, OK, 0.74428
+GET csrng: <PreparedRequest [GET]>, OK, 0.610741
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.265747
+GET youtube API: <PreparedRequest [GET]>, OK, 0.526742
+GET csrng: <PreparedRequest [GET]>, OK, 0.626489
+GET csrng: <PreparedRequest [GET]>, OK, 0.607265
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.280948
+GET youtube API: <PreparedRequest [GET]>, OK, 0.537125
+GET csrng: <PreparedRequest [GET]>, OK, 0.531493
+GET csrng: <PreparedRequest [GET]>, OK, 0.67253
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.296533
+GET youtube API: <PreparedRequest [GET]>, OK, 0.545358
+GET csrng: <PreparedRequest [GET]>, OK, 0.557986
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.343037
+GET csrng: <PreparedRequest [GET]>, OK, 0.568401
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.343037
+GET youtube API: <PreparedRequest [GET]>, OK, 0.460135
+GET csrng: <PreparedRequest [GET]>, OK, 0.608342
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.091722
+GET csrng: <PreparedRequest [GET]>, OK, 0.483621
+GET csrng: <PreparedRequest [GET]>, OK, 0.598833
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.091722
+GET youtube API: <PreparedRequest [GET]>, OK, 0.495431
+GET csrng: <PreparedRequest [GET]>, OK, 0.606332
+GET csrng: <PreparedRequest [GET]>, OK, 0.489699
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.25585
+GET csrng: <PreparedRequest [GET]>, OK, 0.519217
+GET csrng: <PreparedRequest [GET]>, OK, 0.575552
+GET csrng: <PreparedRequest [GET]>, OK, 0.584512
+GET csrng: <PreparedRequest [GET]>, OK, 0.481786
+GET csrng: <PreparedRequest [GET]>, OK, 0.493742
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.258335
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.280524
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.318481
+GET csrng: <PreparedRequest [GET]>, OK, 0.483931
+GET csrng: <PreparedRequest [GET]>, OK, 0.498114
+GET csrng: <PreparedRequest [GET]>, OK, 0.53091
+GET csrng: <PreparedRequest [GET]>, OK, 0.478715
+GET csrng: <PreparedRequest [GET]>, OK, 0.482916
+GET csrng: <PreparedRequest [GET]>, OK, 0.572943
+GET csrng: <PreparedRequest [GET]>, OK, 0.532394
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.25585
+GET csrng: <PreparedRequest [GET]>, OK, 0.484731
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.100102
+GET csrng: <PreparedRequest [GET]>, OK, 0.488084
+GET csrng: <PreparedRequest [GET]>, OK, 0.500594
+GET youtube API: <PreparedRequest [GET]>, OK, 0.531648
+GET csrng: <PreparedRequest [GET]>, OK, 0.489536
+GET csrng: <PreparedRequest [GET]>, OK, 0.488999
+GET csrng: <PreparedRequest [GET]>, OK, 0.512088
+GET csrng: <PreparedRequest [GET]>, OK, 0.48508
+GET csrng: <PreparedRequest [GET]>, OK, 1.759988
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.258335
+GET csrng: <PreparedRequest [GET]>, OK, 1.739531
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.100102
+GET csrng: <PreparedRequest [GET]>, OK, 1.746409
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.280524
+GET csrng: <PreparedRequest [GET]>, OK, 1.726165
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.318481
+GET youtube API: <PreparedRequest [GET]>, OK, 0.345264
+GET youtube API: <PreparedRequest [GET]>, OK, 0.392139
+GET youtube API: <PreparedRequest [GET]>, OK, 0.519134
+GET youtube API: <PreparedRequest [GET]>, OK, 0.627496
+GET csrng: <PreparedRequest [GET]>, OK, 0.625921
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.282391
+GET csrng: <PreparedRequest [GET]>, OK, 0.518796
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.282391
+GET youtube API: <PreparedRequest [GET]>, OK, 0.484236
+GET csrng: <PreparedRequest [GET]>, OK, 0.604001
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.264524
+GET csrng: <PreparedRequest [GET]>, OK, 0.479989
+GET csrng: <PreparedRequest [GET]>, OK, 0.570561
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.264524
+GET youtube API: <PreparedRequest [GET]>, OK, 0.503889
+GET csrng: <PreparedRequest [GET]>, OK, 0.565006
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.304784
+GET csrng: <PreparedRequest [GET]>, OK, 0.533233
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.304784
+GET youtube API: <PreparedRequest [GET]>, OK, 0.508262
+GET myServer: 0.0009982585906982422
+GET csrng: <PreparedRequest [GET]>, OK, 0.806186
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.371335
+GET csrng: <PreparedRequest [GET]>, OK, 0.575978
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.371335
+GET youtube API: <PreparedRequest [GET]>, OK, 0.556538
+GET myServer: 2.3290457725524902
+GET csrng: <PreparedRequest [GET]>, OK, 0.576187
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.28048
+GET csrng: <PreparedRequest [GET]>, OK, 0.524921
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.28048
+GET youtube API: <PreparedRequest [GET]>, OK, 0.478552
+GET myServer: 1.8764617443084717
+GET myServer: 0.000993967056274414
+GET csrng: <PreparedRequest [GET]>, OK, 0.595595
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.100579
+GET csrng: <PreparedRequest [GET]>, OK, 0.485387
+GET csrng: <PreparedRequest [GET]>, OK, 0.474873
+GET csrng: <PreparedRequest [GET]>, OK, 0.488565
+GET csrng: <PreparedRequest [GET]>, OK, 0.492927
+GET csrng: <PreparedRequest [GET]>, OK, 0.578551
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.100579
+GET csrng: <PreparedRequest [GET]>, OK, 0.54612
+GET csrng: <PreparedRequest [GET]>, OK, 0.476355
+GET csrng: <PreparedRequest [GET]>, OK, 0.47531
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.251505
+GET csrng: <PreparedRequest [GET]>, OK, 0.490499
+GET csrng: <PreparedRequest [GET]>, OK, 0.493445
+GET youtube API: <PreparedRequest [GET]>, OK, 0.469606
+GET myServer: 1.7711703777313232
+GET csrng: <PreparedRequest [GET]>, OK, 0.475413
+GET csrng: <PreparedRequest [GET]>, OK, 0.471915
+GET csrng: <PreparedRequest [GET]>, OK, 0.50025
+GET csrng: <PreparedRequest [GET]>, OK, 0.49544
+GET csrng: <PreparedRequest [GET]>, OK, 0.507037
+GET csrng: <PreparedRequest [GET]>, OK, 0.542196
+GET csrng: <PreparedRequest [GET]>, OK, 0.468045
+GET csrng: <PreparedRequest [GET]>, OK, 0.484544
+GET csrng: <PreparedRequest [GET]>, OK, 0.495483
+GET csrng: <PreparedRequest [GET]>, OK, 0.475817
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.401823
+GET csrng: <PreparedRequest [GET]>, OK, 0.476283
+GET csrng: <PreparedRequest [GET]>, OK, 0.487559
+GET csrng: <PreparedRequest [GET]>, OK, 0.493473
+GET csrng: <PreparedRequest [GET]>, OK, 0.498002
+GET csrng: <PreparedRequest [GET]>, OK, 0.606353
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.401823
+GET csrng: <PreparedRequest [GET]>, OK, 0.463653
+GET csrng: <PreparedRequest [GET]>, OK, 0.467692
+GET csrng: <PreparedRequest [GET]>, OK, 0.488295
+GET csrng: <PreparedRequest [GET]>, OK, 0.504653
+GET youtube API: <PreparedRequest [GET]>, OK, 0.385535
+GET myServer: 2.9134740829467773
+GET csrng: <PreparedRequest [GET]>, OK, 0.501609
+GET csrng: <PreparedRequest [GET]>, OK, 0.475601
+GET csrng: <PreparedRequest [GET]>, OK, 0.481742
+GET csrng: <PreparedRequest [GET]>, OK, 0.492593
+GET csrng: <PreparedRequest [GET]>, OK, 0.609521
+GET csrng: <PreparedRequest [GET]>, OK, 0.574117
+GET csrng: <PreparedRequest [GET]>, OK, 0.532562
+GET csrng: <PreparedRequest [GET]>, OK, 0.545369
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.251505
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.120018
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.124878
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.31071
+GET youtube API: <PreparedRequest [GET]>, OK, 0.457173
+GET myServer: 4.826404333114624
+GET csrng: <PreparedRequest [GET]>, OK, 0.574865
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.120018
+GET csrng: <PreparedRequest [GET]>, OK, 0.585922
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.124878
+GET csrng: <PreparedRequest [GET]>, OK, 0.487813
+GET youtube API: <PreparedRequest [GET]>, OK, 0.412069
+GET myServer: 5.178989410400391
+GET youtube API: <PreparedRequest [GET]>, OK, 0.485125
+GET myServer: 5.2236409187316895
+GET csrng: <PreparedRequest [GET]>, OK, 0.483992
+GET csrng: <PreparedRequest [GET]>, OK, 0.586725
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.31071
+GET youtube API: <PreparedRequest [GET]>, OK, 0.410383
+GET myServer: 6.295123815536499
+GET myServer: 0.0009984970092773438
+GET csrng: <PreparedRequest [GET]>, OK, 0.544018
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.270466
+GET csrng: <PreparedRequest [GET]>, OK, 0.598303
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.270466
+GET youtube API: <PreparedRequest [GET]>, OK, 0.52011
+GET myServer: 1.952836036682129
+GET myServer: 0.0019876956939697266
+GET csrng: <PreparedRequest [GET]>, OK, 1.961756
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.24838
+GET csrng: <PreparedRequest [GET]>, OK, 0.568195
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.24838
+GET youtube API: <PreparedRequest [GET]>, OK, 0.50762
+GET myServer: 3.3454782962799072
+GET myServer: 0.0009965896606445312
+GET csrng: <PreparedRequest [GET]>, OK, 0.777453
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.271605
+GET csrng: <PreparedRequest [GET]>, OK, 0.575798
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.271605
+GET youtube API: <PreparedRequest [GET]>, OK, 0.552091
+GET myServer: 2.2500579357147217
+GET csrng: <PreparedRequest [GET]>, OK, 1.122024
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.262938
+GET csrng: <PreparedRequest [GET]>, OK, 0.481977
+GET csrng: <PreparedRequest [GET]>, OK, 0.597706
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.262938
+GET youtube API: <PreparedRequest [GET]>, OK, 0.518375
+GET myServer: 3.0142385959625244
+GET csrng: <PreparedRequest [GET]>, OK, 0.58368
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.288704
+GET csrng: <PreparedRequest [GET]>, OK, 0.949559
+GET themoviedb: <PreparedRequest [GET]>, OK, 0.288704
+GET youtube API: <PreparedRequest [GET]>, OK, 0.558924
+GET myServer: 2.4120402336120605

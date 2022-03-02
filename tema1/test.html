@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title>Random Movie Trailer</title>
+    <style>
+    #my_button {
+      background-color: #A52A2A;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 22px;
+    }
+    #my_button:hover {
+      background-color: #CD5C5C;
+      color: white;
+    }
+</style>
+</head>
+<body>
+<h1 style="text-align:center">
+    If you don't know what movie to watch next, click here!!!
+</h1>
+<p  style="text-align:center">
+    <input type="submit" value="Get Movie" onclick="concurrentRequests(15)" id="my_button">
+</p>
+<p id="demo" style="text-align:center">
+
+</p>
+
+<script type="text/javascript">
+    function submit() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+        console.log(this.responseText);
+            //document.getElementById("demo").innerHTML ="<p>Watch:</p>"+ this.responseText;
+            }
+        };
+        xhttp.open("GET", "/movie");
+        xhttp.responseType = "text";
+        xhttp.send();
+    }
+    function concurrentRequests(limit){
+      for (var i = 0; i < limit; i++) {
+        submit()
+           }
+    }
+</script>
+</body>
+</html>
+
