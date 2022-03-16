@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "api of books",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"Hello\");",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "Valeria Izvoreanu",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
