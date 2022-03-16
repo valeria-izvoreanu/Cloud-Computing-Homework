@@ -43,8 +43,12 @@ const server = http.createServer(async function(req, res) {
                     req.socket.destroy();
             });
             req.on('end', async function () {
-                var post = JSON.parse(body);
-                await fnc.createBook(con,res,post);
+                try {
+                    var post = JSON.parse(body);
+                    await fnc.createBook(con,res,post);
+                } catch (e) {
+                    fnc.badRequest(res);
+                }
             });
         }else{
             id = pathname.split("/")[2];
@@ -77,8 +81,12 @@ const server = http.createServer(async function(req, res) {
                         req.socket.destroy();
                 });
                 req.on('end', async function () {
-                    var post = JSON.parse(body);
-                    await fnc.updateBook(con,res,id,post);
+                    try {
+                        var post = JSON.parse(body);
+                        await fnc.updateBook(con,res,id,post);
+                    } catch (e) {
+                        fnc.badRequest(res);
+                    }
                 });
             }
         }
@@ -105,7 +113,3 @@ const server = http.createServer(async function(req, res) {
 server.listen(8000, "127.0.0.1", () => {
     console.log("Server is listening to requests on port 8000");
 });
-
-
-
-
