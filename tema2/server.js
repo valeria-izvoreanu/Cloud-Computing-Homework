@@ -30,6 +30,8 @@ const server = http.createServer(async function(req, res) {
                 await fnc.badRequest(res);
             }else if(typeof badAdd !== 'undefined'){
                 await fnc.badRequest(res);
+            }else if(id===""){
+                await fnc.badRequest(res);
             }else{
                 await fnc.getBookById(con,res,id);
             }
@@ -58,6 +60,8 @@ const server = http.createServer(async function(req, res) {
                 await fnc.badRequest(res);
             }else if(typeof badAdd !== 'undefined'){
                 await fnc.badRequest(res);
+            }else if(id===""){
+                await fnc.badRequest(res);
             }else{
                 await fnc.createBookById(con,res,id);
             }
@@ -69,9 +73,12 @@ const server = http.createServer(async function(req, res) {
             id = pathname.split("/")[2];
             endpoint = pathname.split("/")[1];
             badAdd = pathname.split("/")[3];
+            console.log(id);
             if(endpoint != "books"){
                 await fnc.badRequest(res);
             }else if(typeof badAdd !== 'undefined'){
+                await fnc.badRequest(res);
+            }else if(id===""){
                 await fnc.badRequest(res);
             }else{
                 var body = '';
@@ -101,6 +108,8 @@ const server = http.createServer(async function(req, res) {
                 await fnc.badRequest(res);
             }else if(typeof badAdd !== 'undefined'){
                 await fnc.badRequest(res);
+            }else if(id===""){
+                await fnc.badRequest(res);
             }else{
                 await fnc.deleteBook(con, res, id);
             }
@@ -113,3 +122,7 @@ const server = http.createServer(async function(req, res) {
 server.listen(8000, "127.0.0.1", () => {
     console.log("Server is listening to requests on port 8000");
 });
+
+
+
+
